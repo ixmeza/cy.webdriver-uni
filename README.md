@@ -20,6 +20,6 @@ Automated test demo with cypress for webdriver university [contact us](http://we
 - Delete all Tasks
   
 ## Demo
-![Demo-todo-list](/images/cypress.gif)
+![Demo-todo-list](/cypress/images/cypress.gif)
 
 
