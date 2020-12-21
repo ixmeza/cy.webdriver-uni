@@ -1,0 +1,24 @@
+{
+  "name": "webdriver-uni",
+  "version": "1.0.0",
+  "description": "webdriver university tests with cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
+  },
+  "keywords": [],
+  "author": "Ixchel Meza",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^6.1.0",
+    "chai": "*",
+    "cypress-xpath": "*"
+  },
+  "dependencies": {
+    "faker": "^5.1.0",
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3",
+    "xlsx": "^0.16.9"
+  }
+}

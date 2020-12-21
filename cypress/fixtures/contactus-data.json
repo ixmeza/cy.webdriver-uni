@@ -1,0 +1,7 @@
+{
+  "__comment1": "this is just a sample but this is not a good approach to handle data",
+  "first_name": "Jane",
+  "last_name": "Doe",
+  "email": "jane_doe@mail.com",
+  "message": "this page is the best for automation"
+}
