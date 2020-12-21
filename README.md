@@ -10,9 +10,6 @@ Automated test demo with cypress for webdriver university [contact us](http://we
   - Using faker library
   - Using json file
 
-## Example
-![Demo-contact-us](/images/contact-us.gif)
-
 **To-Do list Front-End Tests Covered**
 
 - Add Task(s)
@@ -22,7 +19,7 @@ Automated test demo with cypress for webdriver university [contact us](http://we
 - Delete a Task
 - Delete all Tasks
   
-## Example
-![Demo-todo-list](/images/todo.gif)
+## Demo
+![Demo-todo-list](/images/cypress.gif)
 
 
